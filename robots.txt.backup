@@ -1,0 +1,17 @@
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Bard
+Disallow: /
